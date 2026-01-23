@@ -13,8 +13,6 @@ This repository is organized by year and category to track technical progression
 Detailed walkthroughs and methodology for solving challenges:
 * 2025
 * 2026
-
-## Tools and Payloads
   
 ### Technical Skill Set
 - Custom scripts, automation tools, and exploits developed during laboratory research.
