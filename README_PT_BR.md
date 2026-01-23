@@ -16,8 +16,6 @@ Documentação detalhada e metodologia de resolução de desafios:
 * [2025](./CTFs/2025/)
 * [2026](./CTFs/2026/)
 
-## Ferramentas e Payloads
-  
 ### Conjunto de Habilidades Técnicas
 - Scripts personalizados, ferramentas de automação e exploits desenvolvidos durante pesquisas laboratoriais.
 
