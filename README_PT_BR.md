@@ -4,7 +4,7 @@
 
 ---
 
-Foco Principal: Segurança Ofensiva (Red Teaming) e Testes de Penetração.
+Foco Principal: Segurança Ofensiva (Red Teaming) e Penetration Testing.
 
 
 ## Estrutura do Repositório
