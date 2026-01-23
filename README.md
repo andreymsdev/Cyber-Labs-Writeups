@@ -11,8 +11,8 @@ This repository is organized by year and category to track technical progression
 
 ### CTFs and Write-ups
 Detailed walkthroughs and methodology for solving challenges:
-* [2025](./CTFs/2025/)
-* [2026](./CTFs/2026/)
+* 2025
+* 2026
 
 ## Tools and Payloads
   
