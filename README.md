@@ -2,9 +2,6 @@
 
 ---
 
-Main Focus: Offensive Security (Red Teaming) and Penetration Testing.
-
-
 ## Repository Structure
 
 This repository is organized by year and category to track technical progression:
