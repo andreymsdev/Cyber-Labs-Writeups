@@ -4,7 +4,7 @@ This path teaches you how technology works from the ground up, no prior experien
 
 ---
 
-![Certificate of Completion](images/image.png)
+![Certificate of Completion](images/preseccertificate.png)
 
 ---
 
