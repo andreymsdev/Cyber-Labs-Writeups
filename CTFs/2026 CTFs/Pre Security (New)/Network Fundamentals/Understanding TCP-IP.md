@@ -1,4 +1,6 @@
-# A Fresh Start
+## Understanding TCP/IP
+
+## A Fresh Start
 
 Understanding TCP/IP and these network concepts is essential because they are the foundation of how the internet works. From sending an email to streaming a video, everything depends on these layers and rules working together.
 
