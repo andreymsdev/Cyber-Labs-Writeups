@@ -42,6 +42,7 @@ Here are some of the concepts that are important to know when learning TCP/IP:
 
 * **Addressing** — Every device needs an IP address so data knows exactly where to go, like a digital home address.
 * **Encapsulation** — Data is wrapped layer by layer, with headers added at each step, so the receiver knows how to unpack it.
+* **De-encapsulation:** The receiver reverses this, "stripping away" headers layer by layer to reveal the original message.
 * **Routing** — Routers choose the best path for packets, making sure information doesn’t get lost and reaches the destination efficiently.
 * **Reliability** — Protocols like TCP check for errors and resend lost packets, ensuring the message arrives complete.
 * **Efficiency** — Networks balance speed and resources. Some protocols (like UDP) skip extra checks to deliver data faster, which is great for streaming and real-time communication.
