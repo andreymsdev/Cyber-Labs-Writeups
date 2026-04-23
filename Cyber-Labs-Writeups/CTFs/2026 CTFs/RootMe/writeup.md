@@ -11,12 +11,16 @@ I started with an Nmap scan to identify open ports and services:
 
 - **Findings:** Port `22` (SSH) and Port `80` (HTTP) were open. The server is running Apache `2.4.29`.
 
+---
+
 2. **Directory Enumeration**
 
 Using Gobuster with a common wordlist, I searched for hidden directories:
 ```gobuster dir -u http://<IP-TARGET> -w common.txt```
 
 - **Findings:** Discovered /panel/ (upload interface) and /uploads/ (directory where uploaded files are stored).
+
+---
 
 3. **Exploitation (Gaining Access)**
 
@@ -31,6 +35,8 @@ I attempted to upload a PHP reverse shell. The server had a basic extension filt
 4. Execution: Navigated to ```http://<IP-TARGET>/uploads/shell.php5```, triggering the connection.
 
 **User Flag:** Found at /var/www/user.txt.
+
+---
 
 4.**Privilege Escalation**
 
